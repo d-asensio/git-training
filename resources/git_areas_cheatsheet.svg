@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1280 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="git-areas">
+        <g id="remote-repo">
+            <g transform="matrix(-1.39899,0,0,3.45085,1422.61,-114.647)">
+                <rect x="179.492" y="33.223" width="2.144" height="231.827" style="fill:rgb(231,135,0);"/>
+            </g>
+            <g transform="matrix(2.04723,0,0,2.04723,871.812,-294.381)">
+                <circle cx="145.654" cy="339.181" r="24.423" style="fill:rgb(229,134,0);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-36.4999,10.0943)">
+                <text x="1187.49px" y="392.938px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">remote</text>
+            </g>
+        </g>
+        <g id="local-repo">
+            <g transform="matrix(-1.39899,0,0,3.45085,1157.61,-114.647)">
+                <rect x="179.492" y="33.223" width="2.144" height="231.827" style="fill:rgb(230,229,36);"/>
+            </g>
+            <g transform="matrix(2.04723,0,0,2.04723,606.812,-294.381)">
+                <circle cx="145.654" cy="339.181" r="24.423" style="fill:rgb(229,228,35);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-29.136,2.5126)">
+                <text x="921.465px" y="400.52px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">local</text>
+            </g>
+        </g>
+        <g id="staging-area">
+            <g transform="matrix(-1.39899,0,0,3.45085,892.607,-114.647)">
+                <rect x="179.492" y="33.223" width="2.144" height="231.827" style="fill:rgb(230,229,36);"/>
+            </g>
+            <g transform="matrix(2.04723,0,0,2.04723,341.812,-294.381)">
+                <circle cx="145.654" cy="339.181" r="24.423" style="fill:rgb(207,224,75);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-18.4599,9.53677)">
+                <text x="625.507px" y="393.495px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">staging area</text>
+            </g>
+        </g>
+        <g id="workspace">
+            <g transform="matrix(-1.39899,0,0,3.45085,627.607,-114.647)">
+                <rect x="179.492" y="33.223" width="2.144" height="231.827" style="fill:rgb(86,152,130);"/>
+            </g>
+            <g transform="matrix(2.04723,0,0,2.04723,76.8118,-294.381)">
+                <circle cx="145.654" cy="339.181" r="24.423" style="fill:rgb(87,152,130);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-6.65797,7.78361)">
+                <text x="353.211px" y="395.389px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">workspace</text>
+            </g>
+        </g>
+        <g id="stash">
+            <g transform="matrix(-1.39899,0,0,3.45085,362.607,-114.647)">
+                <rect x="179.492" y="33.223" width="2.144" height="231.827" style="fill:rgb(44,84,106);"/>
+            </g>
+            <g transform="matrix(2.04723,0,0,2.04723,-188.188,-294.381)">
+                <circle cx="145.654" cy="339.181" r="24.423" style="fill:rgb(44,84,106);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,2.0604,3.12431)">
+                <text x="93.821px" y="401.1px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:white;">stash</text>
+            </g>
+        </g>
+    </g>
+    <g id="git-commands">
+        <g id="forward">
+            <g>
+                <g transform="matrix(1.98825,0,0,0.397746,79.3019,223.991)">
+                    <path d="M278.485,176.914L272.921,149.101L154.972,149.101C153.744,149.101 152.747,154.086 152.747,160.227L152.747,193.602C152.747,199.742 153.744,204.727 154.972,204.727L272.956,204.727L278.485,177.089L278.485,176.914Z" style="fill:rgb(87,152,130);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,93.9522,71.96)">
+                    <text x="354.868px" y="225.43px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">git add [&lt;pathspec&gt;...]</text>
+                </g>
+            </g>
+            <g>
+                <g transform="matrix(1.98825,0,0,0.397746,-185.698,223.991)">
+                    <path d="M278.485,176.914L272.921,149.101L154.972,149.101C153.744,149.101 152.747,154.086 152.747,160.227L152.747,193.602C152.747,199.742 153.744,204.727 154.972,204.727L272.956,204.727L278.485,177.089L278.485,176.914Z" style="fill:rgb(44,84,106);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,45.7445,74.6621)">
+                    <text x="132.747px" y="222.728px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:white;">git stash apply [&lt;stash&gt;]</text>
+                </g>
+            </g>
+            <g>
+                <g transform="matrix(1.98825,0,0,0.397746,344.302,223.991)">
+                    <path d="M278.485,176.914L272.921,149.101L154.972,149.101C153.744,149.101 152.747,154.086 152.747,160.227L152.747,193.602C152.747,199.742 153.744,204.727 154.972,204.727L272.956,204.727L278.485,177.089L278.485,176.914Z" style="fill:rgb(207,224,75);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,32.5092,76.6284)">
+                    <text x="713.005px" y="220.762px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">git commit</text>
+                </g>
+            </g>
+            <g>
+                <g transform="matrix(1.98825,0,0,0.397746,609.302,223.991)">
+                    <path d="M278.485,176.914L272.921,149.101L154.972,149.101C153.744,149.101 152.747,154.086 152.747,160.227L152.747,193.602C152.747,199.742 153.744,204.727 154.972,204.727L272.956,204.727L278.485,177.089L278.485,176.914Z" style="fill:rgb(229,228,35);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,54.6232,74.1837)">
+                    <text x="887.538px" y="223.207px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">git push [&lt;repository&gt; [&lt;refspec&gt;...]]</text>
+                </g>
+            </g>
+        </g>
+        <g id="backward">
+            <g transform="matrix(1,0,0,1,0,209)">
+                <g transform="matrix(1.98825,0,0,0.397746,79.3019,223.991)">
+                    <path d="M278.485,160.227C278.485,154.086 277.488,149.101 276.26,149.101L158.31,149.101L152.747,176.914L158.31,204.727L276.26,204.727C277.488,204.727 278.485,199.742 278.485,193.602L278.485,160.227Z" style="fill:rgb(207,224,75);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,93.9522,71.96)">
+                    <text x="344.875px" y="225.43px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">git checkout -- [&lt;paths&gt;...]</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,0,209)">
+                <g transform="matrix(1.98825,0,0,0.397746,-185.698,223.991)">
+                    <path d="M278.485,160.227C278.485,154.086 277.488,149.101 276.26,149.101L158.31,149.101L152.747,176.914L158.31,204.727L276.26,204.727C277.488,204.727 278.485,199.742 278.485,193.602L278.485,160.227Z" style="fill:rgb(87,152,130);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,45.7445,74.6621)">
+                    <text x="175.107px" y="222.728px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:white;">git stash</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,0,209)">
+                <g transform="matrix(1.98825,0,0,0.397746,344.302,223.991)">
+                    <path d="M278.485,160.227C278.485,154.086 277.488,149.101 276.26,149.101L158.31,149.101L152.747,176.914L158.31,204.727L276.26,204.727C277.488,204.727 278.485,199.742 278.485,193.602L278.485,160.227Z" style="fill:rgb(229,228,35);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,32.5092,76.6284)">
+                    <text x="703.665px" y="220.762px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">git reset --soft</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,0,209)">
+                <g transform="matrix(1.98825,0,0,0.397746,609.302,223.991)">
+                    <path d="M278.485,160.227C278.485,154.086 277.488,149.101 276.26,149.101L158.31,149.101L152.747,176.914L158.31,204.727L276.26,204.727C277.488,204.727 278.485,199.742 278.485,193.602L278.485,160.227Z" style="fill:rgb(229,134,0);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,54.6232,74.1837)">
+                    <text x="887.541px" y="223.207px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">git fetch [&lt;repository&gt; [&lt;refspec&gt;...]]</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

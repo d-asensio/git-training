@@ -1,0 +1,158 @@
+<html>
+<head>
+<title>simpletodo.js</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+
+    .ln { color: #606366; font-weight: normal; font-style: normal; }
+    .s0 { color: rgb(98,151,85); font-style: italic; }
+    .s1 { color: rgb(169,183,198); }
+    .s2 { color: rgb(204,120,50); font-weight: bold; }
+    .s3 { color: rgb(98,151,85); font-weight: bold; font-style: italic; }
+
+    .code_block_snapshot_example {
+        padding: 10px;
+        border-radius: 4px;
+        margin: 0;
+
+        background-color: #2b2b2b;
+    }
+
+    .code_block_snapshot_example {
+        position: absolute;
+        width: 33%;
+        overflow: auto;
+    }
+    .code_block_snapshot_example:nth-child(1) {
+        left: 0%;
+    }
+
+    .code_block_snapshot_example:nth-child(2) {
+        left: 33%;
+    }
+
+    .code_block_snapshot_example:nth-child(3) {
+        left: 66%;
+    }
+
+
+
+    .snapshot_container:hover > .code_block_snapshot_example {
+        left: 50%;
+        transform: translateX(-50%);
+        background-color: transparent;
+    }
+
+
+    .snapshot_container:hover > .code_block_snapshot_example:last-child {
+        border-radius: 4px;
+
+        background-color: #2b2b2b;
+        z-index: -1;
+    }
+</style>
+</head>
+<body>
+<div class="snapshot_container">
+    <pre class="code_block_snapshot_example">
+<span class="s0">&nbsp;
+ &nbsp;
+ &nbsp;</span><span class="s1">
+</span><span class="s2">class </span><span class="s1">SimpleFIFO {
+
+  </span><span class="s0">&nbsp;
+   &nbsp;
+   &nbsp;
+   &nbsp;</span><span class="s3"> </span><span class="s0">
+   &nbsp;</span><span class="s1">
+  constructor(initElements = []) {
+    </span><span class="s2">&nbsp;</span><span class="s1">
+  }
+
+  </span><span class="s0">&nbsp;
+   &nbsp;
+   &nbsp;
+   &nbsp;</span><span class="s3"> </span><span class="s0">
+   &nbsp;</span><span class="s1">
+  addElement(element) {
+    </span><span class="s2">&nbsp;</span><span class="s1">
+  }
+
+  </span><span class="s0">&nbsp;
+   &nbsp;
+   &nbsp;
+   &nbsp;</span><span class="s3"> </span><span class="s0">
+   &nbsp;</span><span class="s1">
+  getElement() {
+    </span><span class="s2">&nbsp;</span><span class="s1">
+  }
+}</span></pre>
+    <pre class="code_block_snapshot_example">
+<span class="s0">&nbsp;
+ &nbsp;
+ &nbsp;</span><span class="s1">
+</span><span class="s2">&nbsp;</span><span class="s1">&nbsp;
+
+  </span><span class="s0">&nbsp;
+   &nbsp;
+   &nbsp;
+   &nbsp;</span><span class="s3"> </span><span class="s0">
+   &nbsp;</span><span class="s1">
+  &nbsp;
+    </span><span class="s2">this</span><span class="s1">.queue = initElements
+  &nbsp;
+
+  </span><span class="s0">&nbsp;
+   &nbsp;
+   &nbsp;
+   &nbsp;</span><span class="s3"> </span><span class="s0">
+   &nbsp;</span><span class="s1">
+  &nbsp;
+    </span><span class="s2">this</span><span class="s1">.queue.push(element)
+  &nbsp;
+
+  </span><span class="s0">&nbsp;
+   &nbsp;
+   &nbsp;
+   &nbsp;</span><span class="s3"> </span><span class="s0">
+   &nbsp;</span><span class="s1">
+  &nbsp;
+    </span><span class="s2">return this</span><span class="s1">.queue.pop()
+  &nbsp;
+&nbsp;</span></pre>
+    <pre class="code_block_snapshot_example">
+<span class="s0">/**
+ * Implementation of a very simple first in first out queue.
+ */</span><span class="s1">
+</span><span class="s2">&nbsp;</span><span class="s1">&nbsp;
+
+  </span><span class="s0">/**
+   * Initializes the queue with the given init elements (if any).
+   *
+   * </span><span class="s3">@param </span><span class="s0">initElements
+   */</span><span class="s1">
+  &nbsp;
+    </span><span class="s2">&nbsp;</span><span class="s1">
+  &nbsp;
+
+  </span><span class="s0">/**
+   * Adds the given element to the queue.
+   *
+   * </span><span class="s3">@param </span><span class="s0">element
+   */</span><span class="s1">
+  &nbsp;
+    </span><span class="s2">&nbsp;</span><span class="s1">
+  &nbsp;
+
+  </span><span class="s0">/**
+   * Returns the last element added to the list.
+   *
+   * </span><span class="s3">@returns </span><span class="s0">element
+   */</span><span class="s1">
+  &nbsp;
+    </span><span class="s2">&nbsp;</span><span class="s1">
+  &nbsp;
+&nbsp;</span></pre>
+</div>
+</body>
+</html>

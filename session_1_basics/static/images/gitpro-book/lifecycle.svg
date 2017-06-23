@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 570 286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="background:#ffffff;fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;">
+    <g id="_02---lifecycle">
+        <path id="Line-6" d="M55.5,41.5L55.5,270.354" style="fill:rgb(143,137,129);stroke:rgb(143,137,129);stroke-width:1px;"/>
+        <path id="Line-3" d="M335.5,74.469L335.5,270.354" style="fill:rgb(143,137,129);stroke:rgb(143,137,129);stroke-width:1px;"/>
+        <path id="Line-2" d="M195.5,74.469L195.5,270.354" style="fill:rgb(143,137,129);stroke:rgb(143,137,129);stroke-width:1px;"/>
+        <path id="Line-7" d="M505.5,73.937L505.5,269.822" style="fill:rgb(143,137,129);stroke:rgb(143,137,129);stroke-width:1px;"/>
+        <g id="goldref" transform="matrix(1,0,0,1,293,57)">
+            <rect id="Rectangle-3" x="0" y="0" width="108" height="33" style="fill:rgb(205,159,0);"/>
+            <g transform="matrix(1,0,0,1,24.7876,21)">
+                <g id="master-2">
+                    <g>
+                        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:12px;fill:none;">Modiﬁed</text>
+                        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:12px;fill:white;">Modiﬁed</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="Arrow-35" transform="matrix(1,0,0,1,61,114)">
+            <circle id="Arrow-35-tail" cx="10" cy="10" r="10" style="fill:rgb(69,90,100);"/>
+            <rect id="Arrow-35-line" x="10" y="0" width="410" height="20" style="fill:rgb(69,90,100);"/>
+            <g id="Arrow-35-head" transform="matrix(6.12323e-17,1,-1,6.12323e-17,440,-420)">
+                <path d="M430,0L440,20L420,20L430,0Z" style="fill:rgb(69,90,100);"/>
+            </g>
+        </g>
+        <g id="Arrow-351" transform="matrix(-1,0,0,1,501,233)">
+            <circle id="Arrow-35-tail1" cx="10" cy="10" r="10" style="fill:rgb(69,90,100);"/>
+            <rect id="Arrow-35-line1" x="10" y="0" width="272" height="20" style="fill:rgb(69,90,100);"/>
+            <g id="Arrow-35-head1" transform="matrix(6.12323e-17,1,-1,6.12323e-17,302,-282)">
+                <path d="M292,0L302,20L282,20L292,0Z" style="fill:rgb(69,90,100);"/>
+            </g>
+        </g>
+        <g id="Arrow-352" transform="matrix(1,0,0,1,201,153)">
+            <circle id="Arrow-35-tail2" cx="10" cy="10" r="10" style="fill:rgb(69,90,100);"/>
+            <rect id="Arrow-35-line2" x="10" y="0" width="99" height="20" style="fill:rgb(69,90,100);"/>
+            <g id="Arrow-35-head2" transform="matrix(6.12323e-17,1,-1,6.12323e-17,129,-109)">
+                <path d="M119,0L129,20L109,20L119,0Z" style="fill:rgb(69,90,100);"/>
+            </g>
+        </g>
+        <g id="Arrow-353" transform="matrix(-1,0,0,1,190,201)">
+            <circle id="Arrow-35-tail3" cx="10" cy="10" r="10" style="fill:rgb(69,90,100);"/>
+            <g id="Arrow-35-line3" transform="matrix(1.00142,0,0,1,-0.014199,0)">
+                <rect x="10" y="0" width="99" height="20" style="fill:rgb(69,90,100);"/>
+            </g>
+            <g id="Arrow-35-head3" transform="matrix(-1.61329e-16,1,-1,-1.61329e-16,129.141,-108.857)">
+                <path d="M119,0L128.857,20L108.857,20L119,0Z" style="fill:rgb(69,90,100);"/>
+            </g>
+        </g>
+        <g id="Arrow-354" transform="matrix(1,0,0,1,341,177.162)">
+            <circle id="Arrow-35-tail4" cx="10" cy="10" r="10" style="fill:rgb(69,90,100);"/>
+            <rect id="Arrow-35-line4" x="10" y="0" width="130" height="20" style="fill:rgb(69,90,100);"/>
+            <g id="Arrow-35-head4" transform="matrix(6.12323e-17,1,-1,6.12323e-17,160,-140)">
+                <path d="M150,0L160,20L140,20L150,0Z" style="fill:rgb(69,90,100);"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,207.453,167)">
+            <g id="Edit-the-file">
+                <g>
+                    <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:11px;fill:none;">Edit the ﬁle</text>
+                    <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:11px;fill:white;">Edit the ﬁle</text>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,69.2646,127.17)">
+            <g id="Add-the-file">
+                <g>
+                    <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:11px;fill:none;">Add</text>
+                    <text x="26.49px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:11px;fill:none;">the</text>
+                    <text x="52.98px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:11px;fill:none;">ﬁle</text>
+                    <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:11px;fill:white;">Add</text>
+                    <text x="26.49px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:11px;fill:white;">the</text>
+                    <text x="52.98px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:11px;fill:white;">ﬁle</text>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,83.3308,214.008)">
+            <g id="Remove-the-file">
+                <g>
+                    <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:11px;fill:none;">Remove the ﬁle</text>
+                    <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:11px;fill:white;">Remove the ﬁle</text>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,347.642,190.17)">
+            <g id="Stage-the-file">
+                <g>
+                    <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:11px;fill:none;">Stage the ﬁle</text>
+                    <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:11px;fill:white;">Stage the ﬁle</text>
+                </g>
+            </g>
+        </g>
+        <g id="other" transform="matrix(1,0,0,1,12,13)">
+            <rect id="Rectangle-2" x="0" y="0" width="86" height="33" style="fill:rgb(239,239,231);"/>
+            <g transform="matrix(1,0,0,1,10.4893,21)">
+                <g id="master">
+                    <g>
+                        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:12px;fill:none;">Untracked</text>
+                        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:12px;">Untracked</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="other1" transform="matrix(1,0,0,1,152,13)">
+            <rect id="Rectangle-21" x="0" y="0" width="406" height="33" style="fill:rgb(239,239,231);"/>
+            <g transform="matrix(1,0,0,1,170.489,21)">
+                <g id="master1">
+                    <g>
+                        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:12px;fill:none;">Tracked</text>
+                        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:12px;">Tracked</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="symref" transform="matrix(1,0,0,1,152,57)">
+            <rect id="Rectangle-22" x="0" y="0" width="86" height="33" style="fill:rgb(0,144,154);"/>
+            <g transform="matrix(1,0,0,1,6.87695,21)">
+                <g id="master2">
+                    <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:12px;fill:white;">Unmodiﬁed</text>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,315.132,246)">
+            <g id="Commit">
+                <g>
+                    <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:11px;fill:none;">Commit</text>
+                    <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:11px;fill:white;">Commit</text>
+                </g>
+            </g>
+        </g>
+        <g id="ref" transform="matrix(1,0,0,1,451,57)">
+            <rect id="Rectangle-23" x="0" y="0" width="107" height="33" style="fill:rgb(244,77,39);"/>
+            <g transform="matrix(1,0,0,1,33.0633,20)">
+                <g id="master3">
+                    <g>
+                        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:11.143px;fill:none;">Staged</text>
+                        <text x="0px" y="0px" style="font-family:'Menlo-Regular', 'Menlo', monospace;font-size:11.143px;fill:white;">Staged</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

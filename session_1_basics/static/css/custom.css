@@ -1,0 +1,127 @@
+.bg-contentslide{
+    background-color: #f0f1e9;
+}
+
+.bg-contentslide--main {
+    background-image: url('../images/slides-background--main.svg');
+}
+
+.bg-contentslide--branching {
+    background-image: url('../images/slides-background--branching.png');
+}
+
+.bg-contentslide--buildeing {
+    background-image: url('../images/slides-background--building.jpg');
+}
+
+.bg-contentslide--remote {
+    background-image: url('../images/slides-background--remote.jpg');
+}
+
+.bg-contentslide--cheatsheet {
+    background-image: url('../images/git-areas-cheatsheet.svg');
+}
+
+.bg-git-primary {
+    background-color: #f14e32;
+}
+
+.bg-git-slides--section:after {
+    content: "";
+    position: absolute;
+    width: 125%;
+    height: 125%;
+    top: -12%;
+    left: -50%;
+    background-image: url('../images/slides-background--main.svg');
+    background-repeat: no-repeat;
+}
+
+.fc-brand-git {
+    color: #f14e32;
+}
+
+.fc-black {
+    color: black;
+}
+
+.fc-white {
+    color: white;
+}
+
+.fc-light-text {
+    color: #d4d2d2;
+}
+
+
+
+.u-mb-medium {
+    margin-bottom: 24px;
+}
+
+
+.text-stroke-black {
+    color: #007777;
+    /*-webkit-text-stroke: 2px black;*/
+}
+
+
+
+/* So dirty */
+
+
+.ln { color: #606366; font-weight: normal; font-style: normal; }
+.s0 { color: rgb(98,151,85); font-style: italic; }
+.s1 { color: rgb(169,183,198); }
+.s2 { color: rgb(204,120,50); font-weight: bold; }
+.s3 { color: rgb(98,151,85); font-weight: bold; font-style: italic; }
+
+.code_block_snapshot_example {
+    padding: 10px;
+    border-radius: 4px;
+    margin: 0;
+
+    background-color: #2b2b2b;
+    font-size: 10px;
+}
+
+
+.code_block_snapshot_example {
+    position: absolute;
+    width: 32.5%;
+    transition: all 1s;
+}
+.code_block_snapshot_example:nth-child(1) {
+    left: 0;
+}
+
+.code_block_snapshot_example:nth-child(2) {
+    left: 33.5%;
+}
+
+.code_block_snapshot_example:nth-child(3) {
+    left: 67%;
+}
+
+.code_block_snapshot_example > h4 {
+    color: #dee2e6;
+    text-align: center;
+}
+
+.snapshot_container:hover > .code_block_snapshot_example > h4 {
+    display: none;
+}
+
+.snapshot_container:hover > .code_block_snapshot_example {
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: transparent;
+}
+
+
+.snapshot_container:hover > .code_block_snapshot_example:last-child {
+    border-radius: 4px;
+
+    background-color: #2b2b2b;
+    z-index: -1;
+}
