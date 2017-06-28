@@ -1,0 +1,62 @@
+.bg-contentslide{
+    background-color: #f0f1e9;
+}
+
+.bg-contentslide--best-practices {
+    background-image: url('../images/slides-background--best-practices.jpeg');
+}
+
+.bg-contentslide--merge {
+    background-image: url('../images/memes/git-merge.gif');
+}
+
+.bg-contentslide--rebase {
+    background-image: url('../images/memes/git-rebase.gif');
+}
+
+.bg-contentslide--ninja {
+    background-image: url('../images/memes/versioning-ninja.gif');
+}
+
+.bg-git-primary {
+    background-color: #f14e32;
+}
+
+.bg-git-slides--section:after {
+    content: "";
+    position: absolute;
+    width: 125%;
+    height: 125%;
+    top: -12%;
+    left: -50%;
+    background-image: url('../images/slides-background--main.svg');
+    background-repeat: no-repeat;
+}
+
+.fc-brand-git {
+    color: #f14e32;
+}
+
+.fc-black {
+    color: black;
+}
+
+.fc-white {
+    color: white;
+}
+
+.fc-light-text {
+    color: #d4d2d2;
+}
+
+
+
+.u-mb-medium {
+    margin-bottom: 24px;
+}
+
+
+.text-stroke-black {
+    color: #007777;
+    /*-webkit-text-stroke: 2px black;*/
+}

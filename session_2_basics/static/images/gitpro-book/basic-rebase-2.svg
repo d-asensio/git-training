@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="636px" height="180px" viewBox="0 0 636 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>book/03-git-branching/images/basic-rebase-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="03---Rebase-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M146.5,89.5 L103.5,89.5" id="Line" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M103.5,89.5 L114.3,92.5 L114.3,86.5 L103.5,89.5 Z" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <path d="M273.5,91.5 L230.5,91.5" id="Line-2" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <path id="Line-2-decoration-1" d="M230.5,91.5 L241.3,94.5 L241.3,88.5 L230.5,91.5 Z" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <g id="brown" transform="translate(14.000000, 74.000000)">
+            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+            <text id="C6" stroke-width="1" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="38.2753906" y="21">C0</tspan>
+            </text>
+        </g>
+        <g id="brown" transform="translate(141.000000, 74.000000)">
+            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+            <text id="C6" stroke-width="1" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="38.2753906" y="21">C1</tspan>
+            </text>
+        </g>
+        <g id="brown" transform="translate(268.000000, 74.000000)">
+            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+            <text id="C6" stroke-width="1" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="38.2753906" y="21">C2</tspan>
+            </text>
+        </g>
+        <g id="Line-7-+-ref-3" transform="translate(516.000000, 12.000000)">
+            <path d="M53.5,21.5 L53.5,61.5" id="Line-7" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+            <path id="Line-7-decoration-1" d="M53.5,61.5 L56.5,50.7 L50.5,50.7 L53.5,61.5 Z" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+            <g id="ref">
+                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="107" height="36"></rect>
+                <text id="master" stroke-width="1" font-family="Menlo-Regular, Menlo" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="19.6461242" y="20.9090909">experiment</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Line-5-+-brown-5" opacity="0.5" transform="translate(352.000000, 16.000000)">
+            <path d="M52.5,22.5 L0.5,62.5" id="Line-5" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+            <path id="Line-5-decoration-1" d="M0.5,62.5 L10.8894714,58.2929958 L7.2312068,53.5372518 L0.5,62.5 Z" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+            <g id="brown" transform="translate(44.000000, 0.000000)">
+                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+                <text id="C6" stroke-width="1" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="38.2753906" y="21">C4</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Line-6-+-brown-4" transform="translate(357.000000, 74.000000)">
+            <path d="M43.5,16.5 L0.5,16.5" id="Line-6" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+            <path id="Line-6-decoration-1" d="M0.5,16.5 L11.3,19.5 L11.3,13.5 L0.5,16.5 Z" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+            <g id="brown" transform="translate(39.000000, 0.000000)">
+                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+                <text id="C6" stroke-width="1" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="38.2753906" y="21">C3</tspan>
+                </text>
+            </g>
+        </g>
+        <path d="M528.5,90.5 L485.5,90.5" id="Line-6" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <path id="Line-6-decoration-1" d="M485.5,90.5 L496.3,93.5 L496.3,87.5 L485.5,90.5 Z" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <g id="brown" transform="translate(524.000000, 74.000000)">
+            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+            <text id="C6" stroke-width="1" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="34.6630859" y="21">C4'</tspan>
+            </text>
+        </g>
+        <g id="Line-4-+-ref-2" transform="translate(387.000000, 107.000000)">
+            <path d="M53.5,43.5 L53.5,0.5" id="Line-4" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+            <path id="Line-4-decoration-1" d="M53.5,0.5 L50.5,11.3 L56.5,11.3 L53.5,0.5 Z" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+            <g id="ref" transform="translate(0.000000, 29.000000)">
+                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="107" height="33"></rect>
+                <text id="master" stroke-width="1" font-family="Menlo-Regular, Menlo" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="33.0632559" y="20">master</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

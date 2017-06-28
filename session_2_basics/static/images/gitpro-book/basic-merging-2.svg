@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="768px" height="295px" viewBox="0 0 768 295" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>book/03-git-branching/images/basic-merging-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+    </defs>
+    <g id="03---Basic-Merging-2-Copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Wrapping-differences" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal" fill="#413932">
+            <tspan x="611.753906" y="111">Wrapping differences</tspan>
+            <tspan x="622.59082" y="125">into a new commit</tspan>
+        </text>
+        <path d="M144.5,146.5 L101.5,146.5" id="Line" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M101.5,146.5 L112.3,149.5 L112.3,143.5 L101.5,146.5 Z" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <path d="M271.5,148.5 L228.5,148.5" id="Line-2" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <path id="Line-2-decoration-1" d="M228.5,148.5 L239.3,151.5 L239.3,145.5 L228.5,148.5 Z" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <path d="M398.5,147.5 L355.5,147.5" id="Line-6" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <path id="Line-6-decoration-1" d="M355.5,147.5 L366.3,150.5 L366.3,144.5 L355.5,147.5 Z" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <g id="brown" transform="translate(12.000000, 131.000000)">
+            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+            <text id="C6" stroke-width="1" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="38.2753906" y="21">C0</tspan>
+            </text>
+        </g>
+        <g id="brown" transform="translate(139.000000, 131.000000)">
+            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+            <text id="C6" stroke-width="1" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="38.2753906" y="21">C1</tspan>
+            </text>
+        </g>
+        <g id="brown" transform="translate(266.000000, 131.000000)">
+            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+            <text id="C6" stroke-width="1" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="38.2753906" y="21">C2</tspan>
+            </text>
+        </g>
+        <path d="M398.5,198.5 L352.5,157.5" id="Line-5" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <path id="Line-5-decoration-1" d="M352.5,157.5 L358.566232,166.925541 L362.558455,162.446462 L352.5,157.5 Z" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+        <g id="Line-7-+-ref-3" transform="translate(386.000000, 69.000000)">
+            <path d="M51.5,21.5 L51.5,61.5" id="Line-7" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+            <path id="Line-7-decoration-1" d="M51.5,61.5 L54.5,50.7 L48.5,50.7 L51.5,61.5 Z" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+            <g id="ref">
+                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="107" height="33"></rect>
+                <text id="master" stroke-width="1" font-family="Menlo-Regular, Menlo" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="33.0632559" y="20">master</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="brown" transform="translate(393.000000, 131.000000)">
+            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+            <text id="C6" stroke-width="1" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="38.2753906" y="21">C4</tspan>
+            </text>
+        </g>
+        <g id="Line-8-+-brown-6" transform="translate(481.000000, 189.000000)">
+            <path d="M43.5,16.5 L0.5,16.5" id="Line-8" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+            <path id="Line-8-decoration-1" d="M0.5,16.5 L11.3,19.5 L11.3,13.5 L0.5,16.5 Z" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+            <g id="brown" transform="translate(38.000000, 0.000000)">
+                <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+                <text id="C6" stroke-width="1" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="38.2753906" y="21">C5</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="commit_outlined" transform="translate(645.000000, 131.000000)">
+            <g id="Rectangle-1">
+                <use fill="#EFEFE7" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#159099" stroke-width="2" x="1" y="1" width="87" height="31" rx="15.5"></rect>
+            </g>
+            <text id="C6" stroke-width="1" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="38.2753906" y="21">C6</tspan>
+            </text>
+        </g>
+        <g id="brown" transform="translate(393.000000, 189.000000)">
+            <rect id="Rectangle-1" fill="#EFEFE7" fill-rule="evenodd" x="0" y="0" width="89" height="33" rx="16.5"></rect>
+            <text id="C6" stroke-width="1" font-family="Menlo-Regular, Menlo" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="38.2753906" y="21">C3</tspan>
+            </text>
+        </g>
+        <g id="Line-4-+-ref-2" transform="translate(513.000000, 222.000000)">
+            <path d="M51.5,43.5 L51.5,0.5" id="Line-4" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+            <path id="Line-4-decoration-1" d="M51.5,0.5 L48.5,11.3 L54.5,11.3 L51.5,0.5 Z" stroke="#8F8981" fill="#8F8981" stroke-linecap="square"></path>
+            <g id="ref" transform="translate(0.000000, 29.000000)">
+                <rect id="Rectangle-2" fill="#F44D27" fill-rule="evenodd" x="0" y="0" width="107" height="33"></rect>
+                <text id="master" stroke-width="1" font-family="Menlo-Regular, Menlo" font-size="11.1428571" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="36.4175389" y="20">iss53</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
